@@ -3,10 +3,7 @@ import { Inject , ScheduleComponent, Day, Week, WorkWeek, Month, Agenda } from '
 
 
 
-export function Dashboard ({
-
-}) {
-
+export function Dashboard (){
 return (
     <>
     <ScheduleComponent>
